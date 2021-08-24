@@ -6,7 +6,7 @@ I enjoy low level programming, messing with shaders and different OpenGL techniq
 Currently been experimenting with porting C projects to a variety of platforms.
 
 I've also been working on my own programming language called `avdl`.
-Checkout some games I've made with it:
+Check out some games I've made with it:
 
 * Rue -
 [Itch.io](https://darkdimension.itch.io/rue) |
